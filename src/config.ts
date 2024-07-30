@@ -31,6 +31,12 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "Twitter",
+    href: "https://twitter.com/zerone0x",
+    linkTitle: `zerone0x on Twitter`,
+    active: true,
+  },
+  {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
@@ -52,12 +58,6 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:zerone0x@trine.dev",
     linkTitle: `Send an email to zerone0x`,
-    active: true,
-  },
-  {
-    name: "Twitter",
-    href: "https://twitter.com/zerone0x",
-    linkTitle: `zerone0x on Twitter`,
     active: true,
   },
   {
