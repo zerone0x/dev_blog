@@ -1,6 +1,6 @@
 ---
 title: Template
-author: dot
+author: zerone0x
 pubDatetime: 
 slug: 
 featured: false
