@@ -3,8 +3,6 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-> FrontendDeveloper
-
 > Only in silence the word,
 > only in dark the light,
 > only in dying life:
