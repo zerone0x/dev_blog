@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://zerone0x.netlify.app/",
   author: "zerone0x",
   desc: `zerone0x's blogs`,
-  title: "zerone0x",
+  title: "trine",
   // ogImage: "tm.png",
   lightAndDarkMode: true,
   postPerPage: 7,
